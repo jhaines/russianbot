@@ -1,0 +1,21 @@
+{
+  "name": "russianbot",
+  "description": "A sneaky russian bot, interfering in your elections (and discord servers).",
+  "version": "0.0.1",
+  "author": {
+    "name": "Josh Haines"
+  },
+  "dependencies": {
+    "discord.js": "^11.3.2"
+  },
+  "devDependencies": {
+  },
+  "license": "unlicense",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/standard/standard.git"
+  },
+  "scripts": {
+  }
+}
